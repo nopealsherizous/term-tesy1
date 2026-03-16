@@ -1,0 +1,284 @@
+{
+  "classes": [
+    {
+      "name": "10A1",
+      "khoi": "10",
+      "total": 39,
+      "nam": 27,
+      "nu": 12
+    },
+    {
+      "name": "10A10",
+      "khoi": "10",
+      "total": 40,
+      "nam": 13,
+      "nu": 27
+    },
+    {
+      "name": "10A11",
+      "khoi": "10",
+      "total": 39,
+      "nam": 11,
+      "nu": 28
+    },
+    {
+      "name": "10A12",
+      "khoi": "10",
+      "total": 37,
+      "nam": 16,
+      "nu": 21
+    },
+    {
+      "name": "10A2",
+      "khoi": "10",
+      "total": 39,
+      "nam": 30,
+      "nu": 9
+    },
+    {
+      "name": "10A3",
+      "khoi": "10",
+      "total": 40,
+      "nam": 32,
+      "nu": 8
+    },
+    {
+      "name": "10A4",
+      "khoi": "10",
+      "total": 37,
+      "nam": 20,
+      "nu": 17
+    },
+    {
+      "name": "10A5",
+      "khoi": "10",
+      "total": 40,
+      "nam": 27,
+      "nu": 13
+    },
+    {
+      "name": "10A6",
+      "khoi": "10",
+      "total": 33,
+      "nam": 14,
+      "nu": 19
+    },
+    {
+      "name": "10A7",
+      "khoi": "10",
+      "total": 39,
+      "nam": 18,
+      "nu": 21
+    },
+    {
+      "name": "10A8",
+      "khoi": "10",
+      "total": 37,
+      "nam": 17,
+      "nu": 20
+    },
+    {
+      "name": "10A9",
+      "khoi": "10",
+      "total": 35,
+      "nam": 18,
+      "nu": 17
+    },
+    {
+      "name": "11A1",
+      "khoi": "11",
+      "total": 45,
+      "nam": 27,
+      "nu": 18
+    },
+    {
+      "name": "11A10",
+      "khoi": "11",
+      "total": 45,
+      "nam": 13,
+      "nu": 32
+    },
+    {
+      "name": "11A11",
+      "khoi": "11",
+      "total": 46,
+      "nam": 7,
+      "nu": 39
+    },
+    {
+      "name": "11A12",
+      "khoi": "11",
+      "total": 45,
+      "nam": 20,
+      "nu": 25
+    },
+    {
+      "name": "11A13",
+      "khoi": "11",
+      "total": 41,
+      "nam": 7,
+      "nu": 34
+    },
+    {
+      "name": "11A14",
+      "khoi": "11",
+      "total": 45,
+      "nam": 4,
+      "nu": 41
+    },
+    {
+      "name": "11A2",
+      "khoi": "11",
+      "total": 45,
+      "nam": 28,
+      "nu": 17
+    },
+    {
+      "name": "11A3",
+      "khoi": "11",
+      "total": 44,
+      "nam": 30,
+      "nu": 14
+    },
+    {
+      "name": "11A4",
+      "khoi": "11",
+      "total": 37,
+      "nam": 19,
+      "nu": 18
+    },
+    {
+      "name": "11A5",
+      "khoi": "11",
+      "total": 37,
+      "nam": 24,
+      "nu": 13
+    },
+    {
+      "name": "11A6",
+      "khoi": "11",
+      "total": 44,
+      "nam": 33,
+      "nu": 11
+    },
+    {
+      "name": "11A7",
+      "khoi": "11",
+      "total": 43,
+      "nam": 18,
+      "nu": 25
+    },
+    {
+      "name": "11A8",
+      "khoi": "11",
+      "total": 41,
+      "nam": 21,
+      "nu": 20
+    },
+    {
+      "name": "11A9",
+      "khoi": "11",
+      "total": 41,
+      "nam": 15,
+      "nu": 26
+    },
+    {
+      "name": "12A1",
+      "khoi": "12",
+      "total": 37,
+      "nam": 18,
+      "nu": 19
+    },
+    {
+      "name": "12A10",
+      "khoi": "12",
+      "total": 39,
+      "nam": 10,
+      "nu": 29
+    },
+    {
+      "name": "12A11",
+      "khoi": "12",
+      "total": 31,
+      "nam": 18,
+      "nu": 13
+    },
+    {
+      "name": "12A12",
+      "khoi": "12",
+      "total": 28,
+      "nam": 17,
+      "nu": 11
+    },
+    {
+      "name": "12A13",
+      "khoi": "12",
+      "total": 27,
+      "nam": 17,
+      "nu": 10
+    },
+    {
+      "name": "12A14",
+      "khoi": "12",
+      "total": 29,
+      "nam": 10,
+      "nu": 19
+    },
+    {
+      "name": "12A2",
+      "khoi": "12",
+      "total": 33,
+      "nam": 19,
+      "nu": 14
+    },
+    {
+      "name": "12A3",
+      "khoi": "12",
+      "total": 30,
+      "nam": 18,
+      "nu": 12
+    },
+    {
+      "name": "12A4",
+      "khoi": "12",
+      "total": 31,
+      "nam": 24,
+      "nu": 7
+    },
+    {
+      "name": "12A5",
+      "khoi": "12",
+      "total": 29,
+      "nam": 12,
+      "nu": 17
+    },
+    {
+      "name": "12A6",
+      "khoi": "12",
+      "total": 36,
+      "nam": 4,
+      "nu": 32
+    },
+    {
+      "name": "12A7",
+      "khoi": "12",
+      "total": 34,
+      "nam": 0,
+      "nu": 34
+    },
+    {
+      "name": "12A8",
+      "khoi": "12",
+      "total": 34,
+      "nam": 6,
+      "nu": 28
+    },
+    {
+      "name": "12A9",
+      "khoi": "12",
+      "total": 40,
+      "nam": 20,
+      "nu": 20
+    }
+  ]
+}
