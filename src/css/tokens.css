@@ -1,0 +1,65 @@
+/* ══════════════════════════════════════════
+   TOKENS — Design System Variables
+   THPT Cẩm Bình · 2025
+═══════════════════════════════════════════ */
+:root {
+  /* Brand Colors */
+  --red: #c0392b;
+  --red2: #8b1a10;
+  --gold: #e8a020;
+  --gold2: #cf900e;
+  --blue: #1a4a8a;
+  --blue-bg: #e4edfd;
+  --green: #1a6a30;
+  --green-bg: #d4eedb;
+  --pink: #b0336a;
+  --pink-bg: #fce4f0;
+
+  /* Surface Colors */
+  --bg: #f0ece5;
+  --surface: #ffffff;
+  --surface2: #f7f3ee;
+  --surface3: #f0ebe2;
+
+  /* Border */
+  --border: #ddd6cc;
+  --border2: #e8e2d8;
+
+  /* Text */
+  --t1: #1a1410;
+  --t2: #46382c;
+  --t3: #8a7a6a;
+  --t4: #b4a898;
+
+  /* Shadows */
+  --sh: 0 1px 3px rgba(0,0,0,.05), 0 4px 14px rgba(0,0,0,.07);
+  --sh2: 0 8px 30px rgba(0,0,0,.13), 0 2px 8px rgba(0,0,0,.05);
+  --sh3: 0 24px 64px rgba(0,0,0,.22);
+
+  /* Radius */
+  --r: 13px;
+  --rs: 8px;
+  --rx: 6px;
+
+  /* Spacing */
+  --gap: 10px;
+  --pad: 16px;
+}
+
+[data-theme="dark"] {
+  --bg: #131110;
+  --surface: #1e1b18;
+  --surface2: #252118;
+  --surface3: #2c2820;
+  --border: #38322a;
+  --border2: #302c24;
+  --t1: #ede8e0;
+  --t2: #bab0a4;
+  --t3: #756a5e;
+  --t4: #4a4238;
+  --blue-bg: #0d1e3a;
+  --green-bg: #0a2414;
+  --pink-bg: #280e1a;
+  --sh: 0 1px 4px rgba(0,0,0,.35), 0 4px 16px rgba(0,0,0,.3);
+  --sh2: 0 8px 32px rgba(0,0,0,.55);
+}
