@@ -1,0 +1,14 @@
+{
+  "name": "thpt-cambinh",
+  "version": "1.0.0",
+  "description": "Cổng thông tin học sinh THPT Cẩm Bình",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve . -p 3000",
+    "build": "echo 'Static site - no build needed'",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
