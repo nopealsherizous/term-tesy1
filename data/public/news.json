@@ -1,0 +1,37 @@
+{
+  "news": [
+    {
+      "id": "news-001",
+      "title": "Chào mừng năm học mới 2025-2026",
+      "summary": "Trường THPT Cẩm Bình trân trọng chào mừng toàn thể học sinh, phụ huynh và giáo viên bước vào năm học mới 2025-2026 với nhiều kỳ vọng và hy vọng.",
+      "content": "Trường THPT Cẩm Bình trân trọng chào mừng toàn thể học sinh, phụ huynh và giáo viên bước vào năm học mới 2025-2026. Năm học này, nhà trường tiếp tục phát huy truyền thống dạy tốt, học tốt, phấn đấu đạt kết quả cao trong các kỳ thi. Ban giám hiệu và toàn thể giáo viên cam kết đồng hành cùng học sinh trên con đường chinh phục tri thức.",
+      "author": "Ban Giám Hiệu",
+      "category": "thong-bao",
+      "status": "published",
+      "createdAt": "2025-09-01T07:00:00Z",
+      "tags": ["chào mừng", "năm học mới"]
+    },
+    {
+      "id": "news-002",
+      "title": "Lịch thi học kỳ 1 năm học 2025-2026",
+      "summary": "Nhà trường thông báo lịch thi học kỳ 1 năm học 2025-2026 cho toàn thể học sinh các khối 10, 11, 12.",
+      "content": "Nhà trường thông báo lịch thi học kỳ 1 như sau:\n- Khối 12: từ ngày 15/12/2025\n- Khối 11: từ ngày 17/12/2025\n- Khối 10: từ ngày 19/12/2025\n\nHọc sinh cần chuẩn bị đầy đủ giấy tờ và có mặt trước giờ thi 15 phút. Mọi thắc mắc liên hệ văn phòng nhà trường.",
+      "author": "Phòng Đào Tạo",
+      "category": "lich-thi",
+      "status": "published",
+      "createdAt": "2025-11-20T08:00:00Z",
+      "tags": ["lịch thi", "học kỳ 1"]
+    },
+    {
+      "id": "news-003",
+      "title": "Kết quả kỳ thi học sinh giỏi cấp tỉnh",
+      "summary": "Học sinh trường THPT Cẩm Bình đạt thành tích xuất sắc tại kỳ thi học sinh giỏi cấp tỉnh năm 2025.",
+      "content": "Tại kỳ thi học sinh giỏi cấp tỉnh năm 2025, học sinh trường THPT Cẩm Bình đã đạt được nhiều giải thưởng danh giá. Nhà trường xin chúc mừng và biểu dương các em học sinh đã nỗ lực học tập, đem lại vinh quang cho trường.",
+      "author": "Ban Giám Hiệu",
+      "category": "thanh-tich",
+      "status": "published",
+      "createdAt": "2025-10-15T09:00:00Z",
+      "tags": ["học sinh giỏi", "thành tích"]
+    }
+  ]
+}
